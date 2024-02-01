@@ -1,0 +1,44 @@
+{
+  "cardData": [
+    {
+      "heading": "Product Development",
+      "desc": "We excel in turning your ideas into exceptional products, ensuring precision, quality, and efficiency through expert collaboration and cutting-edge technology."
+    },
+    {
+      "heading": "Product Enhancement",
+      "desc": "Enhance your existing product with tailored solutions to optimize user experiences, boost performance, and seamlessly integrate new functionalities."
+    },
+    {
+      "heading": "Custom Solutions",
+      "desc": "We provide custom solutions tailored to your unique business needs, be it a mobile app, web application, or complex enterprise solution aligned with your goals."
+    },
+    {
+      "heading": "Technology Consulting",
+      "desc": "Informed decisions with industry expertise. We advise on tech selection, architecture, scalability, and security to empower your business."
+    },
+    {
+      "heading": "Ongoing Support and Maintenance",
+      "desc": "Committed to long-term client partnerships. Our support and maintenance services ensure smooth operation, continuous improvement, and proactive security."
+    }
+  ],
+  "sliderList":[
+    {   
+      "_id":1,
+      "heading":"Blockchain Consultant",
+      "desc": "At Squbix, we recognize the indomitable potential of Blockchain, with expertise in wallet development, CBDC, and core Blockchain development.",
+        "image": "https://squbix.com/static/media/OurProducts.280be9f036a51e2f908c.gif"
+    },
+    {
+        "_id":2,
+        "heading":"Products | Solutions | Services",
+        "desc": "Blockchain, Cloud, Testing, Web & Mobile Development, and more, delivering ingenious solutions for business challenges.",
+        "image": "https://squbix.com/static/media/Consultancy.ff859984439a013883e4.gif"
+    },
+    {
+        "_id":3,
+        "heading":"Training & Education",
+        "desc": "Industry-standard training in BLOCKCHAIN and AI, hands-on experience in developing real-world products like wallets, coins, and exchange platforms with expert guidance.",
+        "image": "https://squbix.com/static/media/TrainingAndEdu.33feca9190168ab80dda.gif"
+    }
+  ]
+}
